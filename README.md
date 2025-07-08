@@ -1,4 +1,5 @@
 StudentAttendenceAPI 🎓
+
 A simple ASP.NET Core Web API project that performs CRUD operations to manage student attendance records. This project uses Entity Framework Core with SQL Server for database interaction and is exposed via RESTful endpoints with Swagger UI for testing.
 
 🚀 Features
