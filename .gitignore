@@ -1,0 +1,15 @@
+#ignore visual studio files,build resultsetc.
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+#build results
+bin/
+obj/
+
+#others
+*.db
+*.df
+*.ldf
